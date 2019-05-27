@@ -1,0 +1,4 @@
+com/wildcodeschool/hibernateTest/repositories/UserDao.class
+com/wildcodeschool/hibernateTest/entities/User.class
+com/wildcodeschool/hibernateTest/HibernateTestApplication.class
+com/wildcodeschool/hibernateTest/utils/Outputter.class
